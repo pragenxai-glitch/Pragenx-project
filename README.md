@@ -6,6 +6,7 @@ Pragenx AI is a proactive personal assistant designed to remind, predict, and pr
 
 - **Proactive Intelligence**: Anticipates your needs before you even ask.
 - **Privacy & Trust**: Your data remains under your control with a privacy-first architecture.
+- **Minimalistic Design**: A clean, modern aesthetic featuring transparent SVG iconography.
 - **24/7 Monitoring**: Continuous oversight of your bills, health, travel, and work.
 - **Seamless Integration**: Works across your digital life to reduce cognitive load.
 
